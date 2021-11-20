@@ -1,3 +1,5 @@
+## Vigenere Cipher using C#
+
 This tool performed by C#form app.There are 3 textboxes,on the left for entering plaintext,on the right for display to ciphertext and the last one is for entering the key but if we don’t enter the key,key is “BORA”.
  
  ![image](https://user-images.githubusercontent.com/27950192/142721950-058740c6-858d-4206-9c79-3490a0062911.png)
